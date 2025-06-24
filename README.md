@@ -37,3 +37,7 @@ https://account.microsoft.com
    2. - Period (.) incorrectly placed before "Identify"
         
       - Real Microsoft emails typically address you by name.
+     
+    3. Fear-inducing language:
+
+- “Immediately,” “permanent suspension,” etc
