@@ -41,3 +41,12 @@ https://account.microsoft.com
     3. Fear-inducing language:
 
 - “Immediately,” “permanent suspension,” etc
+
+  8) Summarize phishing traits found in the email.
+  1. Suspicious Sender Address
+  2. Urgent and Threatening Language like “Verify your identity immediately to avoid permanent suspension”
+  3. Legitimate Microsoft emails typically use your name or username.
+  4. http://microsoft-security-check.com/verify
+      Not a Microsoft domain.
+  5. Claim of a sign-in from Russia, with an IP address.
+
