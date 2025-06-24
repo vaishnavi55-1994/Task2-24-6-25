@@ -28,3 +28,9 @@ http://microsoft-security-check.com/verify
 https://login.microsoftonline.com
 
 https://account.microsoft.com
+
+**7) Verify presence of spe ling or grammar errors**
+1. Incorrect Email Domain
+    m1crosoft.com is a misspelling of microsoft.com
+   2. - Period (.) incorrectly placed before "Identify"
+      - Real Microsoft emails typically address you by name.
