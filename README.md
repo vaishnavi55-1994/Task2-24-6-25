@@ -14,5 +14,6 @@ T1.1 1.Obtain a sample phishing email (many free samples online).
       ![sample phishing mail copy](https://github.com/user-attachments/assets/cbf57c62-75c5-464b-8381-2f346a7e62c0)
 i)  spelling of "Microsoft" — "m1crosoft" (with a "1" instead of an "i").
 ii) Legitimate Microsoft emails come from domains like @microsoft.com or @account.microsoft.com.      
-
+iii)Suspicious link:
+http://microsoft-security-check.com/verify
 
