@@ -17,6 +17,13 @@ ii) Legitimate Microsoft emails come from domains like @microsoft.com or @accoun
 iii)Suspicious link:
 http://microsoft-security-check.com/verify
 
+**5) Urgent or Threatening Language in the Email**
+Subject: “[Action Required] Unusual Sign-In Attempt Detected”
+— The phrase “Action Required” creates urgency.
+- Uses “immediately” and “permanent suspension” to pressure you into quick action, creating fear of losing access.
+
+
+
 
 **6) Mismatched or Suspicious URL**
    
