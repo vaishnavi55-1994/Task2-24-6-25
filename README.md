@@ -10,3 +10,5 @@ T1.1 1.Obtain a sample phishing email (many free samples online).
 
 4) Result of Header
    ![result of header](https://github.com/user-attachments/assets/77a1fce9-aaf2-4558-9938-55f1d367311e)
+   2) .Identify suspicious links or attachments.
+
