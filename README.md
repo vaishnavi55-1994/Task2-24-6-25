@@ -17,8 +17,10 @@ ii) Legitimate Microsoft emails come from domains like @microsoft.com or @accoun
 iii)Suspicious link:
 http://microsoft-security-check.com/verify
 6) Mismatched or Suspicious URL
+   
 **Not a Microsoft domain:**
 *) security-update@m1crosoft.com
+
 **Legitimate Microsoft URLs use domains like:**
 
 https://login.microsoftonline.com
