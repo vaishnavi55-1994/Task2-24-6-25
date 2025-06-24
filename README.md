@@ -16,4 +16,11 @@ i)  spelling of "Microsoft" — "m1crosoft" (with a "1" instead of an "i").
 ii) Legitimate Microsoft emails come from domains like @microsoft.com or @account.microsoft.com.      
 iii)Suspicious link:
 http://microsoft-security-check.com/verify
+6) Mismatched or Suspicious URL
+**Not a Microsoft domain:**
+*) security-update@m1crosoft.com
+**Legitimate Microsoft URLs use domains like:**
 
+https://login.microsoftonline.com
+
+https://account.microsoft.com
